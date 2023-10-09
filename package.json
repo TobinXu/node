@@ -1,0 +1,17 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "my first node program",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "xqg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
