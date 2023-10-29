@@ -23,6 +23,7 @@
     "imagemin": "^8.0.1",
     "prune": "^0.0.2",
     "socket.io": "^4.7.2",
-    "sqlite3": "^5.1.6"
+    "sqlite3": "^5.1.6",
+    "diskinfo": "*"
   }
 }
