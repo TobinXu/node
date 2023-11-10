@@ -18,12 +18,13 @@
     "compressing": "^1.10.0",
     "connect-multiparty": "^2.2.0",
     "desktop-screenshot": "^0.1.1",
+    "diskinfo": "*",
     "express": "^4.18.2",
     "forever": "^4.0.3",
     "imagemin": "^8.0.1",
+    "jimp": "^0.22.10",
     "prune": "^0.0.2",
     "socket.io": "^4.7.2",
-    "sqlite3": "^5.1.6",
-    "diskinfo": "*"
+    "sqlite3": "^5.1.6"
   }
 }
